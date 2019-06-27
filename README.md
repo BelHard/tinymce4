@@ -1,2 +1,2 @@
-# tynimce4
-Tynimce editor
+# tinymce4
+Tinymce editor
